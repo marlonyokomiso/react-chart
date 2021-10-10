@@ -3,9 +3,9 @@ Um exemplo simples utilizando a biblioteca [recharts](https://www.npmjs.com/pack
 
 ### 🚀 Iniciar projeto
 ```
-npm install
+npm install ou yarn add
 
-npm start
+npm start ou yarn start
 ```
 
 ### 📚 Material para estudo
