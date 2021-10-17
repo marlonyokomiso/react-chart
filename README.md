@@ -1,5 +1,5 @@
 ### 📈 React Charts
-Um exemplo simples utilizando a biblioteca [recharts](https://www.npmjs.com/package/recharts) no React.
+Um exemplo simples de um gráfico utilizando a biblioteca [recharts](https://www.npmjs.com/package/recharts) no React.
 
 ### 🚀 Iniciar projeto
 ```
