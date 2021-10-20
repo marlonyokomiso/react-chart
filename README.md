@@ -3,9 +3,9 @@ Um exemplo simples de um gráfico utilizando a biblioteca [recharts](https://www
 
 ### 🚀 Iniciar projeto
 ```
-npm install ou yarn add
+npm install
 
-npm start ou yarn start
+npm start
 ```
 
 ### 📚 Material para estudo
